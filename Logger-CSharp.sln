@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logger-CSharp", "Logger-CSharp\Logger-CSharp.csproj", "{2EBFCA3A-2C89-4F7C-953B-7DCB162CBE66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EBFCA3A-2C89-4F7C-953B-7DCB162CBE66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EBFCA3A-2C89-4F7C-953B-7DCB162CBE66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EBFCA3A-2C89-4F7C-953B-7DCB162CBE66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EBFCA3A-2C89-4F7C-953B-7DCB162CBE66}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
