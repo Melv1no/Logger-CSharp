@@ -5,6 +5,14 @@
         <RootNamespace>Logger_CSharp</RootNamespace>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <PackageId>LoggerCSharp</PackageId>
+        <PackageVersion>1.0.0.3</PackageVersion>
+        <Title>LoggerCSharp</Title>
+        <Authors>melv1n</Authors>
+        <Description>A .NET Library for debug your .NET Core / Framework Application</Description>
+        <PackageProjectUrl>https://github.com/Melv1no/Logger-CSharp</PackageProjectUrl>
+        <RepositoryUrl>https://github.com/Melv1no/Logger-CSharp</RepositoryUrl>
     </PropertyGroup>
 
 </Project>
