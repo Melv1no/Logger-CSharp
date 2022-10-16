@@ -15,4 +15,8 @@
         <RepositoryUrl>https://github.com/Melv1no/Logger-CSharp</RepositoryUrl>
     </PropertyGroup>
 
+    <ItemGroup>
+      <None Remove="NuGet.conf" />
+    </ItemGroup>
+
 </Project>
